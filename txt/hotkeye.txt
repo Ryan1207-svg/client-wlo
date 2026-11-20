@@ -1,0 +1,273 @@
+001 Chat Channels: Local Chat, Whisper, Team Chat,
+    Guild Chat and World Chat.
+    Local Chat applies to players in the same area.
+    Whisper allows you to speak privately with a
+    target player.
+    Team Chat applies to other players in your team.
+    Guild Chat applies to players in the same 
+    organization.
+    World Chat can be read by all players in the server.
+010 Weaponry: For selling and buying armor and weapons.
+    Stuff Shop: For buying special items               
+    Inn: To recover SP, deposit pets and save record 
+    points.
+    Players can setup their own stalls to trade items,
+    pets and weapons
+016 Players must defeat enemies completely to gain more
+    experience and obtain the items carried by enemies.
+    When players are in a group, the last one to defeat
+    the enemy obtains the items carried by the enemy.
+    Depending on the speed of the players involved in 
+    the fight, 2 or more players may end up killing a
+    monster together.
+    In this situation, the experience and the item 
+    gained will be multiplied by the number of
+    fighting players, and then be evenly distributed 
+    among them.
+027 The forces of Earth, Water, Fire and Wind are 
+    subdued by each other.
+    Water is held together by Earth, Fire is 
+    extinguished by Water,
+    Wind is manipulated by Fire, and Earth is slowly 
+    erased by Wind.
+    It is vitally important to understand their 
+    relationships for players to win the battle.
+    After leveling, the character's ability points can 
+    be adjusted at the lower right-hand corner of the 
+    main interface.
+    Ability points include STR, CON, WIT,WIS and AGI.
+    Increasing STR affects ATK, increasing CON upgrades HP,
+    increasing INT influences the effects of MATK;
+    while increasing WIS affects the SP value and MDEF;
+    and increasing AGI enhances SPD.
+043 The attributes players select at the beginning of 
+    the game will affect the skills players will learn 
+    later.
+    Some skills are learned automatically after players 
+    reach a certain level, while some skills are learned 
+    after they have reached the top levels.
+    Some skills are learned as a special reward for 
+    completing quests given to players.
+    Skills can also be upgraded after being used many 
+    times by players, representing proficiency in the 
+    skill. The higher the level the skill is, the more 
+    powerful its effects will be.
+    Skills are also related with weapons the players 
+    hold.
+    For example, if your character is holding magic
+    sticks, these would correspondingly affect your 
+    magic skills.
+    It is very useful to understand the relationship 
+    between skills and weapons for players to win 
+    battles.
+    
+064 When players are involved in fighting,
+    a circle menu appears around them which have options
+    of attack, skill, defense, capture, escape, items 
+    and AUTO.
+    Attack - Attacking with non magical common weapon.
+    Skill - Lists available skills for use.
+    Defense - A defensive state with no attack.
+    Capture - Allows players to capture enemies as
+    their pets.
+    Escape - Allows players to quit a fight.
+    Items - Allows players to choose an item for use.
+    AUTO - Allows players to attack an enemy with the 
+    same skill they used in the last round.
+    If no skill was used, a common attack will be used.
+    Capture is used to capture enemies as pets and to 
+    listen to players' orders.
+    When capturing an enemy, the lower the target 
+    enemies HP is, the higher the rate of success.
+    If players click on an enemy directly, the attack 
+    will be common attack.
+084 01. Press CTRL+S to open skill bar                 
+    02. Press CTRL+I to open item bar                  
+    03. Press CTRL+G to open commerce bar              
+    04. Press CTRL+T to open party bar                 
+    05. Press CTRL+E to open emoticon and action bar   
+    06. Press CTRL+M to open quest log                 
+    07. Press ¡ö to move character to the left         
+    08. Press ¡ô to move character forward             
+    09. Press ¡÷ to move character to the righ         
+    10. Press ¡õ to move character backward            
+    
+    Items or spells can be put in the shortcut action 
+    bar on the right side of the game interface for 
+    quick use.
+    While fighting, you can press the corresponding 
+    hot key or left click on them and then select 
+    a target to use the spell or item in the shortcut 
+    action bar.
+    Hotkeys are F1, F2, F3, F4, F5, F6, F7, F8.
+    If players desire quicker chat functions such as 
+    emoticons or actions, they can open the emoticon 
+    interface and actions column, drag an emoticon or 
+    action icon to the hotkey bar, and then press the 
+    corresponding hotkeys.
+    Hotkeys are ALT+1 ALT+2 ALT+3 ALT+4 ALT+5
+    ALT+6 ALT+7 ALT+8.
+    There are five blank lines above this column to 
+    allow players to type dialogue.
+    Hotkeys are CTRL+1 CTRL+2 CTRL+3 CTRL+4 CTRL+5.
+113 ALT+P is the hotkey for printing screen in the game.
+    By default the screenshot will be saved in 
+    C:\Program Files\Wonderland Online\Photo
+116 1.Guild members are eligible for making guild
+      insignia for their guild.                              
+    2.Only the president of the guild has the right to
+      modify and upload guild insignia.                 
+    3.Guild insignia will be saved in
+      C:\program files\Wonderland Online\user\
+      by default.                                       
+    4.By default the file name is: MySample.ens        
+    5.File name can be changed anytime, but the file
+      type can't be changed.
+      (Such as wonderland.ens; happy.ens)                                            
+    6.After members finish making guild insignias, they
+      can mail them or send them in the form of a CD,
+      DISK or USB to the president of the guild.       
+    7.The president can upload the guild insignia made
+      by himself/herself after saving the insignia in a
+      file.                                             
+    8.Guild members shall copy the files into the file
+      folder first, then enter the game, open the window
+      for making insignia, click the button to read
+      files, and then share the insignia they made with
+      other members.                                       
+    9.11 guild insignias have been set in the interface
+      for making guild insignia. Only 25 insignias can
+      be shown on this interface. And the computer will
+      read in the files in turn.
+142 Basic Game Knowledge                               
+    01.What's the difference between these main
+       characters?
+       Each of them has different original points and
+       inherent skills.                             
+    02.How to recover HP and SP?
+       In addition to having something to eat to 
+       recover HP and SP, pressing ALT +1 to sit down
+       and having a good rest can also recover HP and
+       SP. If there is a bathtub, it can be used to
+       speed up recovery.                                    
+    03.How to collect?   
+       Left click on items to collect.Mushrooms,flowers,
+       wood and shale can also be collected by left 
+       clicking on them. After breaking boxes, treasure 
+       cases, casks and vases, you will find useful
+       items inside.                                       
+    04.How to use a vacuum?
+       Click on collecting points after the vacuum has
+       been equipped.             
+    05.How to use fishing rod?
+       Open inventory when you are close to the water.
+       Double click to begin fishing.                  
+    06.How to get a tent?
+       Talk to the Astrologian in Kelan Village.                                     
+    07.How to use a tent?
+       Open inventory and click tent to open it.
+       You can close the tent by right 
+       clicking it. Tent can be used as a commercial
+       real estate to do business.
+       If other players' tents block your way, you can
+       right click to move forward, or choose not
+       to display the players' tents from the character
+       information display in system options.                                       
+    08.How to select many items and pack them up at the
+       first attempt?
+       Press Ctrl,click items to select whatever you
+       want and pack them up at the first attempt.        
+    09.How to use alchemy?
+       Compounding is alchemy. The result of compounding
+       is related to the level of alchemy.                                           
+    10.How to use world chat?
+       A wireless radio set will be given upon
+       completing the Dinner Incident quest.Then World
+       chat can be used by spending 15 sp.                        
+    11.How to run a vending stall?
+       Click on Business on the interface to run a
+       vending stall. Movement is not allowed while
+       running a vending stall.                         
+    12.What if pet inventory is full?
+       Hotels in Holy village and Welling Village are
+       used to shelter pets.                                               
+    13.How to visit other players' stall?
+       Double click the stall names.                                  
+    14.How to get a coconut?
+       Click the coconut tree to get a coconut.        
+    15.How to meet enemies?
+       There are two different kinds of enemies.One has
+       been indicated on map.
+       You will enter a fight automatically upon meeting
+       them. The other will 
+       be met randomly while you are walking.                                       
+    16.How to return to the city?
+       You can return to city by the reborn point in
+       system option.        
+    17.What is the punishment after characters die?
+       If characters die, you will lose your experience
+       and have to wait for rebirth.                         
+    18.How to set nickname?
+       There is a nickname setting in Social or press
+       Ctrl+E to set a nickname.                         
+    19.How to get tent enlarged?
+       Talk to the Official in Holy Village to get your
+       tent enlarged by giving him a Title Deed and
+       5 stars.                 
+    20.How to use Resource Recycling 
+       Put items into Resource Recycling to make new
+       items.                                             
+    21.What if the warehouse does not have enough space?
+       Build a storeroom to store items or make use of
+       Coin-Op Games to store.                          
+    22.How to cancel selected items while compounding?
+       Right click on items you want to cancel.        
+    23.How to use computer?
+       After it starts to make a prop, click pause,
+       repeat this operation five times and click on
+       the computer to check out scheduling.                                               
+    24.What to do if the gun is broken?
+       Well, it can't be repaired.                                      
+    25.How to use Stone Knife and planner tool?
+       Drag them on the work platform,and then click the
+       platform.                                              
+    26.How to PK?
+       You can find NPCs and all players who didn't turn
+       off the PK function to PK by clicking them and
+       "join combat".                                   
+    27.How to cancel the action for next step during a
+       battle?
+       Right click.                           
+    28.How to fight automatically?
+       There is a function for you to fight 
+       automatically.If you cast spells, the function
+       will allow you to continue to cast spells until
+       you don't have enough HP or SP.Then ordinary
+       attack.                                         
+    29.What i am gonna do if i forgot my quest content?
+       Go find the Astrologian in Kelan Village,she will
+       give a notepad from which you can know all the
+       information about your quests.                    
+    30.Why are my pets lost?
+       If your pets' Friendship Brooch is less than 20,
+       they will run away and the pets are able to
+       join some important battle, if their Friendship 
+       Brooch is more than 40. so it's important to
+       increase the Friendship Brooch of your pets.             
+    31.How to increase pets' Friendship?
+       By doing some special quests or improving your pets' 
+       levels,you can increase the pets' Friendship.   
+    32.There is a heart shape at the bottom right corner
+       of the interface, what does that stand for?
+       It is the "Make Friends" function, the heart
+       shape will appear when someone who is perfect for
+       you is approaching (Perfection is estimated by
+       using objective personal information).                      
+
+    33.How to obtain cheap replenishments?
+       You can obtain some raw material by fishing,and
+       then use a pan or some other tools to cook them
+       to obtain cheap replenishment.                                 
+    34.How to ride on pets?
+       Click the opinion "group", and choose "ride".
+

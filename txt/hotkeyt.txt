@@ -1,0 +1,10 @@
+001 1. Chat Channel
+010 2. Store
+016 3. Obtain Experience
+027 4. Four Attributes and Level Up
+043 5. Spell Description
+064 6. Combat Regarding
+084 7. Shortcut Keys
+113 8. Print Screen
+116 9. Guild insignia: Create and Upload 
+142 10.Basic Game Knowledge

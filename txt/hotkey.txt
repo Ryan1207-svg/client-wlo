@@ -1,0 +1,38 @@
+Wonderland Online Hotkey List
+Main Interface
+01.Press CTRL+A for viewing character info
+02.Press CTRL+S to open Spell Table
+03.Press CTRL+I to open backpack
+04.Press CTRL+F for interaction interface
+05.Press CTRL+G to open trade interface
+06.Press CTRL+T to open team box
+07.Press CTRL+E to open Emoticon Box
+08.Press CTRL+M to open Quest Log
+09.Press ¡ö to move character Left
+10.Press ¡ôto move character Forward
+11.Press ¡÷ to move character Rightwards
+12.Press ¡õ to move character Backwards
+13.Use mouse wheel to zoom (In/Out)
+14.F1 Acts as a shortcut key for using one item or spell in combat
+15.F2 Acts as a shortcut key for using one item or spell in combat
+16.F3 Acts as a shortcut key for using one item or spell in combat
+17.F4 Acts as a shortcut key for using one item or spell in combat
+18.F5 Acts as a shortcut key for using one item or spell in combat
+19.ALT+1 Acts as a shortcut key for using one item or spell in combat
+20.ALT+2 Acts as a shortcut key for using one item or spell in combat
+21.ALT+3 Acts as a shortcut key for using one item or spell in combat
+22.ALT+4 Acts as a shortcut key for using one item or spell in combat
+23.ALT+5 Acts as a shortcut key for using one item or spell in combat
+24.CTRL+1 Acts as a shortcut key for using an emotion or action.
+25.CTRL+2 Acts as a shortcut key for using an emotion or action.
+26.CTRL+3 Acts as a shortcut key for using an emotion or action.
+27.CTRL+4 Acts as a shortcut key for using an emotion or action.
+28.CTRL+5 Acts as a shortcut key for using an emotion or action.
+29.CTRL+Z Acts as a shortcut key for using an emotion or action.
+30.CTRL+X Acts as a shortcut key for using an emotion or action.
+31.CTRL+C Acts as a shortcut key for using an emotion or action.
+32.CTRL+V Acts as a shortcut key for using an emotion or action.
+33.CTRL+B Acts as a shortcut key for using an emotion or action.
+
+Start fighting:
+01. While in combat, left clicking an enemy attacks the target with melee weapon.
