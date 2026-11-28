@@ -1,0 +1,26 @@
+# Rebuilt whole copies of the split files (the repo keeps them as .partNNN + .parts), patcher temp files, logs and per-player files
+/jma/001.jma
+/jma/001_c02.jma
+/jma/001_c03.jma
+/jma/002e2.jma
+/jma/002w2.jma
+/jma/003w2.jma
+/jma/004e2.jma
+/jma/004w2.jma
+/jma/005e2.jma
+/jma/005w2.jma
+/jma/006_c01.jma
+/pic/images.BMg
+/pic/images1.BMg
+/pic/images2.BMg
+/pic/images3.BMg
+/pic/images3_c01.BMg
+/pic/item1_d03.BMg
+/pic/item1_d04.BMg
+/pic/map.JMG
+*.patching
+*.patching.piece
+*.log
+ErrorLog/
+Photo/
+user/
